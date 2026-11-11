@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "311219136289",
+    "firebase_url": "https://ruby-36df3-default-rtdb.firebaseio.com",
+    "project_id": "ruby-36df3",
+    "storage_bucket": "ruby-36df3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311219136289:android:6a6274957e52440ee30060",
+        "android_client_info": {
+          "package_name": "com.example.astraa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311219136289-4uh2td6aean18au06ikh9ktpfppfv53k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1bPtkjzjv9tUTiWc9eFS3uKGxkRU6AA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311219136289-4uh2td6aean18au06ikh9ktpfppfv53k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311219136289-sjdhu2tgnn6mpfgd2fuhmpvct4driain.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rubyMakala"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311219136289:android:a57ed8b671414bd2e30060",
+        "android_client_info": {
+          "package_name": "com.example.ruby_makala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311219136289-4uh2td6aean18au06ikh9ktpfppfv53k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1bPtkjzjv9tUTiWc9eFS3uKGxkRU6AA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311219136289-4uh2td6aean18au06ikh9ktpfppfv53k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311219136289-sjdhu2tgnn6mpfgd2fuhmpvct4driain.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rubyMakala"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
